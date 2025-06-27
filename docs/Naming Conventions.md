@@ -46,6 +46,12 @@ This document outlines the naming conventions used for schemas, tables, views, c
 
 #### Glossary of Category Patterns 
 
+| Pattern   | Meaning         | Example(s)                                 |
+|:---------:|:---------------:|--------------------------------------------|
+| `dim`     | Dimension table | `dim_customer`, `dim_product`              |
+| `fact_`   | Fact table      | `fact_sales`                               |
+| `report_` | Report table    | `report_customers`, `report_sales_monthly` |
+
 ## Column Naming Conventions 
 ### Surrogate Keys 
 - All primary keys in dimension tables MUST use the suffix `_key`.
