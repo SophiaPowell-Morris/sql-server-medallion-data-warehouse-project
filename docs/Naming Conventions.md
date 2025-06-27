@@ -5,14 +5,14 @@ This document outlines the naming conventions used for schemas, tables, views, c
 ## Table of Contents
 
 1. [General Principles](#general-principles)
-2. Table Naming Conventions
-     - Bronze Rules
-     - Silver Rules
-     - Gold Rules
-3. Column Naming Conventions
-     - Surrogate Keys
-     - Technical Columns
-5. Stored Procedures
+2. [Table Naming Conventions](#table-naming-conventions)
+     - [Bronze Rules](#bronze-rules)
+     - [Silver Rules](#silver-rules)
+     - [Gold Rules](#gold-rules)
+3. [Column Naming Conventions](#column-naming-conventions)
+     - [Surrogate Keys](#surrogate-keys)
+     - [Technical Columns](#technical-columns)
+5. [Stored Procedures](#stored-procedure)
 
 ## General Principles 
 
